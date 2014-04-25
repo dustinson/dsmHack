@@ -3,20 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DsmHack", "DsmHack\DsmHack.csproj", "{0C478591-A168-4274-850C-50A34534E4C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DsmHack.Tests", "DsmHack.Tests\DsmHack.Tests.csproj", "{596135D8-3955-481C-BBAD-9BBFA2E3DD1E}"
-EndProject
 Global
 	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 3
+		SccNumberOfProjects = 1
 		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
 		SccTeamFoundationServer = https://iowaleague.visualstudio.com/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = DsmHack.Tests\\DsmHack.Tests.csproj
-		SccProjectName1 = DsmHack.Tests
-		SccLocalPath1 = DsmHack.Tests
-		SccProjectUniqueName2 = DsmHack\\DsmHack.csproj
-		SccProjectName2 = DsmHack
-		SccLocalPath2 = DsmHack
+		SccProjectUniqueName0 = DsmHack\\DsmHack.csproj
+		SccProjectName0 = DsmHack
+		SccAuxPath0 = https://iowaleague.visualstudio.com/defaultcollection
+		SccLocalPath0 = DsmHack
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,10 +23,6 @@ Global
 		{0C478591-A168-4274-850C-50A34534E4C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C478591-A168-4274-850C-50A34534E4C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C478591-A168-4274-850C-50A34534E4C8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{596135D8-3955-481C-BBAD-9BBFA2E3DD1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{596135D8-3955-481C-BBAD-9BBFA2E3DD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{596135D8-3955-481C-BBAD-9BBFA2E3DD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{596135D8-3955-481C-BBAD-9BBFA2E3DD1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
