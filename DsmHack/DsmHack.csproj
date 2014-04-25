@@ -197,7 +197,27 @@
   <ItemGroup>
     <Content Include=".gitattributes" />
     <Content Include=".gitignore" />
-    <Content Include="bs1.html" />
+    <Content Include="assets\css\docs.css" />
+    <Content Include="assets\css\docs.min.css" />
+    <Content Include="assets\css\pygments-manni.css" />
+    <Content Include="assets\ico\apple-touch-icon-144-precomposed.png" />
+    <Content Include="assets\ico\favicon.ico" />
+    <Content Include="assets\img\components.png" />
+    <Content Include="assets\img\devices.png" />
+    <Content Include="assets\img\sass-less.png" />
+    <Content Include="assets\js\application.js" />
+    <Content Include="assets\js\customize.min.js" />
+    <Content Include="assets\js\customizer.js" />
+    <Content Include="assets\js\docs.min.js" />
+    <Content Include="assets\js\ie8-responsive-file-warning.js" />
+    <Content Include="assets\js\raw-files.min.js" />
+    <Content Include="assets\js\vendor\blob.js" />
+    <Content Include="assets\js\vendor\filesaver.js" />
+    <Content Include="assets\js\vendor\holder.js" />
+    <Content Include="assets\js\vendor\jszip.min.js" />
+    <Content Include="assets\js\vendor\less.min.js" />
+    <Content Include="assets\js\vendor\uglify.min.js" />
+    <Content Include="Default.html" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -404,6 +424,7 @@
     <Content Include="docs\_data\sass-team.yml" />
     <Content Include="docs\_data\showcase.yml" />
     <Content Include="grunt\.jshintrc" />
+    <Content Include="Images\dsmhack.png" />
     <Content Include="js\.jscs.json" />
     <Content Include="js\.jshintrc" />
     <Content Include="less\.csscomb.json" />
@@ -451,6 +472,9 @@
     <Content Include="LICENSE" />
     <Content Include="package.json" />
     <Content Include="README.md" />
+    <None Include="Properties\PublishProfiles\dsmHack - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\dsmHack - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\dsmHackOrgAzure.pubxml" />
     <None Include="Scripts\jquery-1.9.0.intellisense.js" />
     <Content Include="Gruntfile.js" />
     <Content Include="grunt\bs-glyphicons-data-generator.js" />
