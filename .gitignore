@@ -1,2 +1,4 @@
 DsmHack/bin/
 DsmHack/obj/
+*.vspscc
+*.user

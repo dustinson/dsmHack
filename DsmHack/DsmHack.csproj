@@ -457,8 +457,12 @@
     <Content Include="less\variables.less" />
     <Content Include="less\wells.less" />
     <Content Include="LICENSE" />
+    <Content Include="more-junk\avatar.png" />
+    <Content Include="more-junk\dsmhack.png" />
+    <Content Include="more-junk\twitter avatar.png" />
     <Content Include="package.json" />
     <Content Include="README.md" />
+    <Content Include="more-junk\custom.less" />
     <None Include="Properties\PublishProfiles\dsmHack - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\dsmHack - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\dsmHackOrgAzure.pubxml" />
@@ -568,7 +572,7 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerPort>56315</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>http://localhost:62549/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
