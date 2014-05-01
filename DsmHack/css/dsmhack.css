@@ -1,0 +1,103 @@
+body {
+	font-family: "Open Sans", sans-serif;
+	color: #363636;
+	padding-top: 50px;
+}
+
+img {
+	max-width: 100%;
+}
+
+h1, h2 {
+	font-weight: 300;
+	margin-top: 0;
+}
+
+b { font-weight: 700; }
+
+.navbar-brand {
+	padding: .5em 0;
+}
+
+.hero {
+	text-align: center;
+}
+
+.map {
+	height: 400px;
+	position: relative;
+}
+
+.map-text {
+	position: absolute;
+	background-color: #fff;
+	top: 1em;
+	left: 15%;
+	padding: 0.5em 1em;
+	box-shadow: 1px 1px 1px rgba(0, 0, 0, .2);
+}
+
+.map-background {
+	height: 400px;
+}
+
+.tikly {
+	max-width: 960px;
+}
+
+.stripe {
+	padding: 4em 0;
+}
+
+.stripe-blue {
+	background-color: #0599B0;
+	color: #fff;
+}
+
+.stripe-green {
+	background-color: #A4BD0A;
+	color: #fff;
+}
+
+.stripe-gray {
+	background-color: #363636;
+	color: #fff;
+}
+
+.section-label {
+	font-weight: 700;
+	font-size: .9em;
+	text-transform: uppercase;
+}
+
+.btn-empty {
+	background-color: transparent;
+	border: 1px solid;
+	color: #fff;
+}
+
+.btn-empty:hover, .btn-empty:focus {
+	color: #fff;
+	text-decoration: underline;
+}
+
+.color-orange { color: #FF8E0A; }
+.color-green { color: #A4BD0A; }
+
+
+.footer {
+	line-height: 45px;
+	text-align: left;
+}
+
+@media all and (min-width: 768px) {
+	.footer {
+		text-align: center;
+	}
+}
+
+.footer-title {
+	font-weight: 700;
+	font-size: 2.5em;
+	float: left;
+}
