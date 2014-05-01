@@ -217,6 +217,7 @@
     <Content Include="assets\js\vendor\jszip.min.js" />
     <Content Include="assets\js\vendor\less.min.js" />
     <Content Include="assets\js\vendor\uglify.min.js" />
+    <Content Include="css\dsmhack.css" />
     <Content Include="Default.html" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
