@@ -84,6 +84,15 @@ b { font-weight: 700; }
 .color-orange { color: #FF8E0A; }
 .color-green { color: #A4BD0A; }
 
+.sponsor-img {
+	height: 120px;
+	line-height: 120px;
+	margin: 1em 0;
+}
+
+.sponsor-img img {
+	max-height: 100%;
+}
 
 .footer {
 	line-height: 45px;
@@ -93,6 +102,7 @@ b { font-weight: 700; }
 @media all and (min-width: 768px) {
 	.footer {
 		text-align: center;
+		vertical-align: middle
 	}
 }
 
