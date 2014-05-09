@@ -477,6 +477,7 @@
     <Content Include="more-junk\sponsors\principal.png" />
     <Content Include="more-junk\sponsors\SAI.jpg" />
     <Content Include="more-junk\sponsors\toftech.jpg" />
+    <Content Include="more-junk\sponsors\tai.jpg" />
     <Content Include="more-junk\twitter avatar.png" />
     <Content Include="package.json" />
     <Content Include="README.md" />
