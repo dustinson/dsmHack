@@ -474,8 +474,11 @@
     <Content Include="more-junk\avatar.png" />
     <Content Include="more-junk\dsmhack.png" />
     <Content Include="more-junk\sponsors\lean-techniques-logo.png" />
+    <Content Include="more-junk\sponsors\meredith.jpg" />
     <Content Include="more-junk\sponsors\principal.png" />
     <Content Include="more-junk\sponsors\SAI.jpg" />
+    <Content Include="more-junk\sponsors\SignatureConsultants.gif" />
+    <Content Include="more-junk\sponsors\TAI-LOGO_horizontal_outline.JPG" />
     <Content Include="more-junk\sponsors\toftech.jpg" />
     <Content Include="more-junk\sponsors\tai.jpg" />
     <Content Include="more-junk\sponsors\MumoSystems.jpg" />
