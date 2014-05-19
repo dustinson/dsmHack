@@ -91,6 +91,10 @@ b {
     color: #A4BD0A;
 }
 
+.color-white {
+    color: #fff;
+}
+
 .sponsor-img-lead {
     height: 120px;
     line-height: 120px;
