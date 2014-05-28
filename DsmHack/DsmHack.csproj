@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -479,6 +479,8 @@
     <Content Include="more-junk\sponsors\SAI.jpg" />
     <Content Include="more-junk\sponsors\SignatureConsultants.gif" />
     <Content Include="more-junk\sponsors\TAI-LOGO_horizontal_outline.JPG" />
+    <Content Include="more-junk\sponsors\Confluence.jpg" />
+    <Content Include="more-junk\sponsors\MarsCafe.JPG" />
     <Content Include="more-junk\sponsors\toftech.jpg" />
     <Content Include="more-junk\sponsors\tai.jpg" />
     <Content Include="more-junk\sponsors\MumoSystems.jpg" />
