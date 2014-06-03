@@ -111,11 +111,11 @@ b {
 
     .sponsor-img img {
         max-height: 100%;
-    }    
-    
-    .sponsor-img-lead img {
-        max-height: 100%;
     }
+
+.sponsor-img-lead img {
+    max-height: 100%;
+}
 
 .footer {
     line-height: 45px;
@@ -136,12 +136,12 @@ b {
 }
 
 dt {
-	cursor: pointer;
-	margin-top: 1em;
-	font-size: 1.1em;
+    cursor: pointer;
+    margin-top: 1em;
+    font-size: 1.1em;
 }
 
 dd {
-	display: none;
-	font-size: 1.1em;
+    display: none;
+    font-size: 1.1em;
 }
