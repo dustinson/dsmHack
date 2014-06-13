@@ -485,6 +485,7 @@
     <Content Include="more-junk\sponsors\tai.jpg" />
     <Content Include="more-junk\sponsors\MumoSystems.jpg" />
     <Content Include="more-junk\twitter avatar.png" />
+    <Content Include="more-junk\charities\charities.jpg" />
     <Content Include="package.json" />
     <Content Include="README.md" />
     <Content Include="more-junk\custom.less" />
