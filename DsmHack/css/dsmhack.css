@@ -62,8 +62,13 @@ b {
 }
 
 .stripe-gray {
+    background-color: #EAEBF0; 
+    color: #222;
+}
+
+.stripe-darkgray{
     background-color: #363636;
-    color: #fff;
+    color: #FFF;
 }
 
 .section-label {
