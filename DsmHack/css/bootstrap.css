@@ -560,6 +560,9 @@ p {
     line-height: 1.4;
 }
 
+.twitter-timeline {
+    height: 451px;
+}
 @media (min-width: 768px) {
     .lead {
         font-size: 21px;
