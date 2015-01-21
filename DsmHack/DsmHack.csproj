@@ -484,6 +484,7 @@
     <Content Include="more-junk\sponsors\toftech.jpg" />
     <Content Include="more-junk\sponsors\tai.jpg" />
     <Content Include="more-junk\sponsors\MumoSystems.jpg" />
+    <Content Include="more-junk\sponsors\VolunteerLocal-logo.jpg" />
     <Content Include="more-junk\twitter avatar.png" />
     <Content Include="more-junk\charities\charities.jpg" />
     <Content Include="package.json" />
