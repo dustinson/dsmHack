@@ -349,8 +349,7 @@ textarea {
 }
 
 a {
-    color: #428bca;
-    text-decoration: none;
+    
 }
 
     a:hover,
@@ -5430,6 +5429,7 @@ a.thumbnail.active {
     margin-bottom: 20px;
     border: 1px solid transparent;
     border-radius: 4px;
+    font-weight: bold;
 }
 
     .alert h4 {
@@ -6908,7 +6908,9 @@ button.close {
 .affix {
     position: fixed;
 }
-
+.norap {
+    white-space: nowrap;
+}
 @-ms-viewport {
     width: device-width;
 }

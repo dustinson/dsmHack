@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -471,26 +471,26 @@
     <Content Include="less\variables.less" />
     <Content Include="less\wells.less" />
     <Content Include="LICENSE" />
-    <Content Include="more-junk\avatar.png" />
+    <Content Include="Images\avatar.png" />
     <Content Include="more-junk\dsmhack.png" />
-    <Content Include="more-junk\sponsors\lean-techniques-logo.png" />
-    <Content Include="more-junk\sponsors\meredith.jpg" />
-    <Content Include="more-junk\sponsors\principal.png" />
-    <Content Include="more-junk\sponsors\SAI.jpg" />
-    <Content Include="more-junk\sponsors\SignatureConsultants.gif" />
-    <Content Include="more-junk\sponsors\TAI-LOGO_horizontal_outline.JPG" />
-    <Content Include="more-junk\sponsors\Confluence.jpg" />
-    <Content Include="more-junk\sponsors\MarsCafe.JPG" />
-    <Content Include="more-junk\sponsors\toftech.jpg" />
-    <Content Include="more-junk\sponsors\tai.jpg" />
-    <Content Include="more-junk\sponsors\MumoSystems.jpg" />
-    <Content Include="more-junk\sponsors\VolunteerLocal-logo.jpg" />
-    <Content Include="more-junk\sponsors\paragonlogo.png" />
+    <Content Include="Images\sponsors\lean-techniques-logo.png" />
+    <Content Include="Images\sponsors\meredith.jpg" />
+    <Content Include="Images\sponsors\principal.png" />
+    <Content Include="Images\sponsors\SAI.jpg" />
+    <Content Include="Images\sponsors\SignatureConsultants.gif" />
+    <Content Include="Images\sponsors\TAI-LOGO_horizontal_outline.JPG" />
+    <Content Include="Images\sponsors\Confluence.jpg" />
+    <Content Include="Images\sponsors\MarsCafe.JPG" />
+    <Content Include="Images\sponsors\toftech.jpg" />
+    <Content Include="Images\sponsors\tai.jpg" />
+    <Content Include="Images\sponsors\MumoSystems.jpg" />
+    <Content Include="Images\sponsors\VolunteerLocal-logo.jpg" />
+    <Content Include="Images\sponsors\paragonlogo.png" />
     <Content Include="more-junk\twitter avatar.png" />
-    <Content Include="more-junk\charities\charities.jpg" />
+    <Content Include="Images\charities\charities.jpg" />
     <Content Include="package.json" />
     <Content Include="README.md" />
-    <Content Include="more-junk\custom.less" />
+    <Content Include="Images\custom.less" />
     <None Include="Properties\PublishProfiles\dsmHack - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\dsmHack - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\dsmHackOrgAzure.pubxml" />
