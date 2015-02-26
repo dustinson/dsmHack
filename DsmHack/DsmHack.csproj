@@ -426,6 +426,7 @@
     <Content Include="docs\_data\showcase.yml" />
     <Content Include="grunt\.jshintrc" />
     <Content Include="Images\dsmhack.png" />
+    <Content Include="Images\sponsors\gravitate.jpg" />
     <Content Include="js\.jscs.json" />
     <Content Include="js\.jshintrc" />
     <Content Include="less\.csscomb.json" />
