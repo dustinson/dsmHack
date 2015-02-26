@@ -425,6 +425,7 @@
     <Content Include="docs\_data\sass-team.yml" />
     <Content Include="docs\_data\showcase.yml" />
     <Content Include="grunt\.jshintrc" />
+    <Content Include="Images\charities\2015dsmHackCharities.jpeg" />
     <Content Include="Images\dsmhack.png" />
     <Content Include="Images\sponsors\gravitate.jpg" />
     <Content Include="js\.jscs.json" />
