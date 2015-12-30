@@ -4,3 +4,4 @@ DsmHack/obj/
 *.user
 *.suo
 Backup/
+.vs/
