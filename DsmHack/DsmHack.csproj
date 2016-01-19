@@ -435,6 +435,9 @@
     <Content Include="Images\charities\2015dsmHackCharities.jpeg" />
     <Content Include="Images\dsmhack.png" />
     <Content Include="Images\sponsors\gravitate.jpg" />
+    <Content Include="Images\sponsors\lean-techniques-logoFull.png" />
+    <Content Include="Images\sponsors\principal-logo.jpg" />
+    <Content Include="Images\sponsors\WorkivaLogo.svg" />
     <Content Include="js\.jscs.json" />
     <Content Include="js\.jshintrc" />
     <Content Include="less\.csscomb.json" />
